@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @HaochenMin
+/src/backend/database.py      @HaochenMin
+/src/backend/routers/auth.py  @HaochenMin
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @HaochenMin
